@@ -1,0 +1,9 @@
+Git hub 주소
+https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite/micro
+
+Hardware
+1. 나노 33  BLE 센스 보드
+2. Mbed용 STM32F746G 디스커버리 키트 개발 보드
+
+Software
+VS Code
